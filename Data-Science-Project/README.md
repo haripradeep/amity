@@ -1,1 +1,1 @@
-# Project for General Assembly's Data Science Remote Course 
+# Project for Data Science in Amity University 
